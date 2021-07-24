@@ -10,7 +10,6 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.FarsiToYounani">
         <activity android:name=".eida"></activity>
-        <activity android:name=".Continues" />
         <activity android:name=".medical" />
         <activity android:name=".Continuation" />
         <activity android:name=".trecho" />
