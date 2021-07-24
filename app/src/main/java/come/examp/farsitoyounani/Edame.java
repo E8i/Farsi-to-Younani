@@ -41,6 +41,14 @@ public class Edame extends AppCompatActivity {
                 startActivity(in);
             }
         });
+        b23=findViewById(R.id.button23);
+        b23.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent in=new Intent(Edame.this,Forao.class);
+                startActivity(in);
+            }
+        });
 
     }
 }
