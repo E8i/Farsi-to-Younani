@@ -9,9 +9,10 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.FarsiToYounani">
-        <activity android:name=".eida"></activity>
+        <activity android:name=".Eftasa"></activity>
+        <activity android:name=".Eida" />
+        <activity android:name=".Edame" />
         <activity android:name=".medical" />
-        <activity android:name=".Continuation" />
         <activity android:name=".trecho" />
         <activity android:name=".pino" />
         <activity android:name=".ertha" />

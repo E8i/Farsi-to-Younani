@@ -13,7 +13,7 @@
         android:layout_height="wrap_content"
         android:padding="48sp"
         android:background="@drawable/activity_background"
-        tools:context=".eida">
+        tools:context="Eida">
 
         <TextView
             android:id="@+id/textView298"
@@ -268,15 +268,15 @@
             app:layout_constraintTop_toBottomOf="@+id/eida17" />
 
         <Button
-            android:id="@+id/button68"
+            android:id="@+id/back16"
             android:layout_width="75dp"
             android:layout_height="75dp"
-            android:layout_marginTop="30dp"
-            android:layout_marginEnd="10dp"
+            android:layout_marginStart="10dp"
+            android:layout_marginTop="10dp"
             android:background="@drawable/button_back"
             android:text="برگشت"
             android:textAlignment="center"
-            android:textSize="18sp"
+            android:textSize="22sp"
             android:textStyle="bold"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintHorizontal_bias="0.91"
@@ -537,14 +537,13 @@
 
         <Button
             android:id="@+id/home1"
-            android:layout_width="75dp"
-            android:layout_height="75dp"
-            android:layout_marginStart="10dp"
-            android:layout_marginTop="30dp"
-            android:background="@drawable/button_collor"
-            android:text="خانه"
+            android:layout_width="65dp"
+            android:layout_height="65dp"
+            android:layout_marginTop="20dp"
+            android:background="@drawable/home_backround"
+            android:text="گوش بده"
             android:textAlignment="center"
-            android:textSize="24sp"
+            android:textSize="17sp"
             android:textStyle="bold"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toBottomOf="@+id/eida18" />
