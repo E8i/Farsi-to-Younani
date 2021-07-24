@@ -17,7 +17,7 @@
         app:layout_constraintStart_toStartOf="parent">
 
         <Button
-            android:id="@+id/button1"
+            android:id="@+id/button21"
             android:layout_width="75dp"
             android:layout_height="75dp"
             android:layout_marginStart="10dp"
@@ -25,51 +25,51 @@
             android:text="می خوام"
             android:textAlignment="center"
             android:textColor="#060606"
-            android:textSize="17sp"
+            android:textSize="18sp"
             android:textStyle="bold"
-            app:layout_constraintStart_toEndOf="@+id/button2"
-            app:layout_constraintTop_toTopOf="@+id/button2" />
+            app:layout_constraintStart_toEndOf="@+id/button22"
+            app:layout_constraintTop_toTopOf="@+id/button22" />
 
         <Button
-            android:id="@+id/button2"
+            android:id="@+id/button22"
             android:layout_width="75dp"
             android:layout_height="75dp"
             android:layout_marginStart="8dp"
             android:background="@drawable/button_collor"
             android:text="دارم"
             android:textAlignment="center"
-            android:textSize="20sp"
+            android:textSize="18sp"
             android:textStyle="bold"
-            app:layout_constraintStart_toEndOf="@+id/button3"
+            app:layout_constraintStart_toEndOf="@+id/button23"
             app:layout_constraintTop_toTopOf="parent" />
 
         <Button
-            android:id="@+id/button3"
+            android:id="@+id/button23"
             android:layout_width="75dp"
             android:layout_height="75dp"
             android:layout_marginStart="10dp"
             android:background="@drawable/button_collor"
             android:text="می خورم"
             android:textAlignment="center"
-            android:textSize="20sp"
+            android:textSize="18sp"
             android:textStyle="bold"
-            app:layout_constraintStart_toEndOf="@+id/button4"
-            app:layout_constraintTop_toTopOf="@+id/button2" />
+            app:layout_constraintStart_toEndOf="@+id/button24"
+            app:layout_constraintTop_toTopOf="@+id/button22" />
 
         <Button
-            android:id="@+id/button4"
+            android:id="@+id/button24"
             android:layout_width="75dp"
             android:layout_height="75dp"
             android:background="@drawable/grammar_background"
             android:text="گرامر"
             android:textAlignment="center"
-            android:textSize="20sp"
+            android:textSize="18sp"
             android:textStyle="bold"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toTopOf="@+id/button3" />
+            app:layout_constraintTop_toTopOf="@+id/button23" />
 
         <Button
-            android:id="@+id/button5"
+            android:id="@+id/button25"
             android:layout_width="75dp"
             android:layout_height="75dp"
             android:layout_marginStart="10dp"
@@ -77,13 +77,13 @@
             android:background="@drawable/button_collor"
             android:text="راه می روم"
             android:textAlignment="center"
-            android:textSize="20sp"
+            android:textSize="17sp"
             android:textStyle="bold"
-            app:layout_constraintStart_toEndOf="@+id/button6"
-            app:layout_constraintTop_toBottomOf="@+id/button1" />
+            app:layout_constraintStart_toEndOf="@+id/button26"
+            app:layout_constraintTop_toBottomOf="@+id/button21" />
 
         <Button
-            android:id="@+id/button6"
+            android:id="@+id/button26"
             android:layout_width="75dp"
             android:layout_height="75dp"
             android:layout_marginStart="10dp"
@@ -91,13 +91,13 @@
             android:background="@drawable/button_collor"
             android:text="می بینم"
             android:textAlignment="center"
-            android:textSize="20sp"
+            android:textSize="18sp"
             android:textStyle="bold"
-            app:layout_constraintStart_toEndOf="@+id/button7"
-            app:layout_constraintTop_toBottomOf="@+id/button2" />
+            app:layout_constraintStart_toEndOf="@+id/button27"
+            app:layout_constraintTop_toBottomOf="@+id/button22" />
 
         <Button
-            android:id="@+id/button7"
+            android:id="@+id/button27"
             android:layout_width="75dp"
             android:layout_height="75dp"
             android:layout_marginStart="10dp"
@@ -105,26 +105,26 @@
             android:background="@drawable/button_collor"
             android:text="می شنوم"
             android:textAlignment="center"
-            android:textSize="20sp"
+            android:textSize="18sp"
             android:textStyle="bold"
-            app:layout_constraintStart_toEndOf="@+id/button8"
-            app:layout_constraintTop_toBottomOf="@+id/button3" />
+            app:layout_constraintStart_toEndOf="@+id/button28"
+            app:layout_constraintTop_toBottomOf="@+id/button23" />
 
         <Button
-            android:id="@+id/button8"
+            android:id="@+id/button28"
             android:layout_width="75dp"
             android:layout_height="75dp"
             android:layout_marginTop="10dp"
             android:background="@drawable/button_collor"
             android:text="خنده می کنم"
             android:textAlignment="center"
-            android:textSize="20sp"
+            android:textSize="18sp"
             android:textStyle="bold"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/button4" />
+            app:layout_constraintTop_toBottomOf="@+id/button24" />
 
         <Button
-            android:id="@+id/button9"
+            android:id="@+id/button29"
             android:layout_width="75dp"
             android:layout_height="75dp"
             android:layout_marginStart="10dp"
@@ -132,13 +132,13 @@
             android:background="@drawable/button_collor"
             android:text="خوابم"
             android:textAlignment="center"
-            android:textSize="20sp"
+            android:textSize="18sp"
             android:textStyle="bold"
-            app:layout_constraintStart_toEndOf="@+id/button10"
-            app:layout_constraintTop_toBottomOf="@+id/button5" />
+            app:layout_constraintStart_toEndOf="@+id/button30"
+            app:layout_constraintTop_toBottomOf="@+id/button25" />
 
         <Button
-            android:id="@+id/button10"
+            android:id="@+id/button30"
             android:layout_width="75dp"
             android:layout_height="75dp"
             android:layout_marginStart="10dp"
@@ -146,13 +146,13 @@
             android:background="@drawable/button_collor"
             android:text="می روم"
             android:textAlignment="center"
-            android:textSize="20sp"
+            android:textSize="18sp"
             android:textStyle="bold"
-            app:layout_constraintStart_toEndOf="@+id/button11"
-            app:layout_constraintTop_toBottomOf="@+id/button6" />
+            app:layout_constraintStart_toEndOf="@+id/button31"
+            app:layout_constraintTop_toBottomOf="@+id/button26" />
 
         <Button
-            android:id="@+id/button11"
+            android:id="@+id/button31"
             android:layout_width="75dp"
             android:layout_height="75dp"
             android:layout_marginStart="10dp"
@@ -160,26 +160,26 @@
             android:background="@drawable/button_collor"
             android:text="هستم"
             android:textAlignment="center"
-            android:textSize="20sp"
+            android:textSize="18sp"
             android:textStyle="bold"
-            app:layout_constraintStart_toEndOf="@+id/button12"
-            app:layout_constraintTop_toBottomOf="@+id/button7" />
+            app:layout_constraintStart_toEndOf="@+id/button32"
+            app:layout_constraintTop_toBottomOf="@+id/button27" />
 
         <Button
-            android:id="@+id/button12"
+            android:id="@+id/button32"
             android:layout_width="75dp"
             android:layout_height="75dp"
             android:layout_marginTop="10dp"
             android:background="@drawable/button_collor"
             android:text="می گیرم"
             android:textAlignment="center"
-            android:textSize="20sp"
+            android:textSize="18sp"
             android:textStyle="bold"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/button8" />
+            app:layout_constraintTop_toBottomOf="@+id/button28" />
 
         <Button
-            android:id="@+id/button13"
+            android:id="@+id/button33"
             android:layout_width="75dp"
             android:layout_height="75dp"
             android:layout_marginStart="10dp"
@@ -187,13 +187,13 @@
             android:background="@drawable/button_collor"
             android:text="گریه می کنم"
             android:textAlignment="center"
-            android:textSize="20sp"
+            android:textSize="18sp"
             android:textStyle="bold"
-            app:layout_constraintStart_toEndOf="@+id/button14"
-            app:layout_constraintTop_toBottomOf="@+id/button9" />
+            app:layout_constraintStart_toEndOf="@+id/button34"
+            app:layout_constraintTop_toBottomOf="@+id/button29" />
 
         <Button
-            android:id="@+id/button14"
+            android:id="@+id/button34"
             android:layout_width="75dp"
             android:layout_height="75dp"
             android:layout_marginStart="10dp"
@@ -201,13 +201,13 @@
             android:background="@drawable/button_collor"
             android:text="آمدم"
             android:textAlignment="center"
-            android:textSize="20sp"
+            android:textSize="18sp"
             android:textStyle="bold"
-            app:layout_constraintStart_toEndOf="@+id/button15"
-            app:layout_constraintTop_toBottomOf="@+id/button10" />
+            app:layout_constraintStart_toEndOf="@+id/button35"
+            app:layout_constraintTop_toBottomOf="@+id/button30" />
 
         <Button
-            android:id="@+id/button15"
+            android:id="@+id/button35"
             android:layout_width="75dp"
             android:layout_height="75dp"
             android:layout_marginStart="10dp"
@@ -215,26 +215,26 @@
             android:background="@drawable/button_collor"
             android:text="می نوشم"
             android:textAlignment="center"
-            android:textSize="20sp"
+            android:textSize="18sp"
             android:textStyle="bold"
-            app:layout_constraintStart_toEndOf="@+id/button16"
-            app:layout_constraintTop_toBottomOf="@+id/button11" />
+            app:layout_constraintStart_toEndOf="@+id/button36"
+            app:layout_constraintTop_toBottomOf="@+id/button31" />
 
         <Button
-            android:id="@+id/button16"
+            android:id="@+id/button36"
             android:layout_width="75dp"
             android:layout_height="75dp"
             android:layout_marginTop="10dp"
             android:background="@drawable/button_collor"
             android:text="می دوم"
             android:textAlignment="center"
-            android:textSize="20sp"
+            android:textSize="18sp"
             android:textStyle="bold"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/button12" />
+            app:layout_constraintTop_toBottomOf="@+id/button32" />
 
         <Button
-            android:id="@+id/button17"
+            android:id="@+id/button37"
             android:layout_width="75dp"
             android:layout_height="75dp"
             android:layout_marginStart="10dp"
@@ -242,13 +242,13 @@
             android:background="@drawable/button_collor"
             android:text="coming soon"
             android:textAlignment="center"
-            android:textSize="16sp"
+            android:textSize="14sp"
             android:textStyle="bold"
-            app:layout_constraintStart_toEndOf="@+id/button18"
-            app:layout_constraintTop_toBottomOf="@+id/button13" />
+            app:layout_constraintStart_toEndOf="@+id/button38"
+            app:layout_constraintTop_toBottomOf="@+id/button33" />
 
         <Button
-            android:id="@+id/button18"
+            android:id="@+id/button38"
             android:layout_width="75dp"
             android:layout_height="75dp"
             android:layout_marginStart="10dp"
@@ -256,13 +256,13 @@
             android:background="@drawable/button_collor"
             android:text="coming soon"
             android:textAlignment="center"
-            android:textSize="16sp"
+            android:textSize="14sp"
             android:textStyle="bold"
-            app:layout_constraintStart_toEndOf="@+id/button19"
-            app:layout_constraintTop_toBottomOf="@+id/button14" />
+            app:layout_constraintStart_toEndOf="@+id/button39"
+            app:layout_constraintTop_toBottomOf="@+id/button34" />
 
         <Button
-            android:id="@+id/button19"
+            android:id="@+id/button39"
             android:layout_width="75dp"
             android:layout_height="75dp"
             android:layout_marginStart="10dp"
@@ -270,23 +270,23 @@
             android:background="@drawable/medical"
             android:text="کلمات پزشکی"
             android:textAlignment="center"
-            android:textSize="20sp"
+            android:textSize="18sp"
             android:textStyle="bold"
-            app:layout_constraintStart_toEndOf="@+id/button20"
-            app:layout_constraintTop_toBottomOf="@+id/button15" />
+            app:layout_constraintStart_toEndOf="@+id/button40"
+            app:layout_constraintTop_toBottomOf="@+id/button35" />
 
         <Button
-            android:id="@+id/button20"
+            android:id="@+id/button40"
             android:layout_width="75dp"
             android:layout_height="75dp"
             android:layout_marginTop="8dp"
             android:background="@drawable/continue_button_backround"
             android:text="ادامه"
             android:textAlignment="center"
-            android:textSize="20sp"
+            android:textSize="18sp"
             android:textStyle="bold"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/button16" />
+            app:layout_constraintTop_toBottomOf="@+id/button36" />
 
     </androidx.constraintlayout.widget.ConstraintLayout>
 
