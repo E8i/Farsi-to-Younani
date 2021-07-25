@@ -9,7 +9,16 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.FarsiToYounani">
-        <activity android:name=".Forao"></activity>
+        <activity android:name=".Poulao"></activity>
+        <activity android:name=".Xtupao" />
+        <activity android:name=".Gurizeis" />
+        <activity android:name=".Dipsao" />
+        <activity android:name=".Fonazo" />
+        <activity android:name=".Leo" />
+        <activity android:name=".Doulevo" />
+        <activity android:name=".Agorazo" />
+        <activity android:name=".penao" />
+        <activity android:name=".Forao" />
         <activity android:name=".Eftasa" />
         <activity android:name=".Eida" />
         <activity android:name=".Edame" />
