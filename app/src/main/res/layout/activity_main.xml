@@ -253,10 +253,10 @@
             android:layout_height="75dp"
             android:layout_marginStart="10dp"
             android:layout_marginTop="10dp"
-            android:background="@drawable/button_collor"
-            android:text="coming soon"
+            android:background="@drawable/contact_background"
+            android:text="تماس با من"
             android:textAlignment="center"
-            android:textSize="14sp"
+            android:textSize="18sp"
             android:textStyle="bold"
             app:layout_constraintStart_toEndOf="@+id/button19"
             app:layout_constraintTop_toBottomOf="@+id/button14" />

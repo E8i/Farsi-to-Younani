@@ -144,6 +144,14 @@ public class MainActivity extends AppCompatActivity {
                 startActivity(in);
             }
         });
+        b18=findViewById(R.id.button18);
+        b18.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent in=new Intent(MainActivity.this,Contact.class);
+                startActivity(in);
+            }
+        });
         b19=findViewById(R.id.button19);
         b19.setOnClickListener(new View.OnClickListener() {
             @Override

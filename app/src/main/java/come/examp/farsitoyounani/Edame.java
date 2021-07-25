@@ -121,6 +121,62 @@ public class Edame extends AppCompatActivity {
                 startActivity(in);
             }
         });
+        b33=findViewById(R.id.button33);
+        b33.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent in=new Intent(Edame.this,Fovame.class);
+                startActivity(in);
+            }
+        });
+        b34=findViewById(R.id.button34);
+        b34.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent in=new Intent(Edame.this,Katharizo.class);
+                startActivity(in);
+            }
+        });
+        b35=findViewById(R.id.button35);
+        b35.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent in=new Intent(Edame.this,Grafo.class);
+                startActivity(in);
+            }
+        });
+        b36=findViewById(R.id.button36);
+        b36.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent in=new Intent(Edame.this,Dino.class);
+                startActivity(in);
+            }
+        });
+        b38=findViewById(R.id.button38);
+        b38.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent in=new Intent(Edame.this,Pezo.class);
+                startActivity(in);
+            }
+        });
+        b39=findViewById(R.id.button39);
+        b39.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent in=new Intent(Edame.this,Katalaveno.class);
+                startActivity(in);
+            }
+        });
+        b40=findViewById(R.id.button40);
+        b40.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent in=new Intent(Edame.this,Edame2.class);
+                startActivity(in);
+            }
+        });
 
 
     }
