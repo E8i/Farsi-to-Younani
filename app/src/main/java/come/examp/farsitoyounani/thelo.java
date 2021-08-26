@@ -18,7 +18,7 @@ public class thelo extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_thelo);
 
-        back1=findViewById(R.id.back1);
+        back1=findViewById(R.id.back62);
         back1.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {

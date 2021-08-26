@@ -26,7 +26,7 @@ public class Doulevo extends AppCompatActivity {
                 startActivity(in);
             }
         });
-        home6=findViewById(R.id.home6);
+        home6=findViewById(R.id.home28);
         home6.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {

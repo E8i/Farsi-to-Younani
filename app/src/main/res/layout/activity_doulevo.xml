@@ -282,7 +282,7 @@
             app:layout_constraintTop_toBottomOf="@+id/doulevo18" />
 
         <Button
-            android:id="@+id/home6"
+            android:id="@+id/home28"
             android:layout_width="75dp"
             android:layout_height="75dp"
             android:layout_marginStart="10dp"

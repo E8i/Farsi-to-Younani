@@ -9,7 +9,34 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.FarsiToYounani">
-        <activity android:name=".Edame2"></activity>
+        <activity
+            android:name=".milao"
+            android:exported="true" />
+        <activity
+            android:name=".boro"
+            android:exported="true" />
+        <activity
+            android:name=".agapo"
+            android:exported="true" />
+        <activity
+            android:name=".cheroume"
+            android:exported="true" />
+        <activity
+            android:name=".perimeno"
+            android:exported="true" />
+        <activity
+            android:name=".kourazome"
+            android:exported="true" />
+        <activity
+            android:name=".diavazo"
+            android:exported="true" />
+        <activity
+            android:name=".ponao"
+            android:exported="true" />
+        <activity
+            android:name=".meno"
+            android:exported="true" />
+        <activity android:name=".Edame2" />
         <activity android:name=".Contact" />
         <activity android:name=".Katalaveno" />
         <activity android:name=".Pezo" />
