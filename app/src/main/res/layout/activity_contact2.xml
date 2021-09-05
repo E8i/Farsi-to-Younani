@@ -13,7 +13,7 @@
         android:layout_height="wrap_content"
         android:padding="48sp"
         android:background="@drawable/activity_background"
-        tools:context=".contact">
+        tools:context=".contact2">
 
         <TextView
             android:id="@+id/textView827"
@@ -79,6 +79,20 @@
             android:textSize="18sp"
             android:textStyle="bold"
             app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/textView829" />
+
+        <Button
+            android:id="@+id/home29"
+            android:layout_width="75dp"
+            android:layout_height="75dp"
+            android:layout_marginStart="10dp"
+            android:layout_marginTop="30dp"
+            android:background="@drawable/home_backround"
+            android:text="خانه"
+            android:textAlignment="center"
+            android:textSize="24sp"
+            android:textStyle="bold"
+            app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toBottomOf="@+id/textView829" />
 
     </androidx.constraintlayout.widget.ConstraintLayout>

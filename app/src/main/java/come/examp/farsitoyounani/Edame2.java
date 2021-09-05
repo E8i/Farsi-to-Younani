@@ -9,7 +9,7 @@ import android.widget.Button;
 
 public class Edame2 extends AppCompatActivity {
 
-    private Button b53,home19,b41,b42,b43,b45,b46,b47,b48,b49,b50,b60,b61,b62;
+    private Button b53,home19,b41,b42,b43,b45,b46,b47,b48,b49,b50,b55,b54,b60,b61,b62;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -101,6 +101,14 @@ public class Edame2 extends AppCompatActivity {
             @Override
             public void onClick(View v) {
                 Intent in=new Intent(Edame2.this,milao.class);
+                startActivity(in);
+            }
+        });
+        b55=findViewById(R.id.button55);
+        b55.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent in=new Intent(Edame2.this,contact2.class);
                 startActivity(in);
             }
         });
