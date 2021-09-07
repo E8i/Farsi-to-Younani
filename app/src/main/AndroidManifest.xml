@@ -10,6 +10,12 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.FarsiToYounani">
         <activity
+            android:name=".murizo"
+            android:exported="true" />
+        <activity
+            android:name=".aresei"
+            android:exported="true" />
+        <activity
             android:name=".contact2"
             android:exported="true" />
         <activity
