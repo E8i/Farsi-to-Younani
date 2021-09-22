@@ -9,8 +9,8 @@ import android.widget.Button;
 
 public class aresei extends AppCompatActivity {
 
-    private Button home30,back64,arese1,arese2,arese3,arese4,arese5,arese6,arese7,arese8,arese9,
-            arese10,arese11,arese12,arese13,arese14,arese15,arese16,arese17,arese18;
+    private Button home30,back64,aresei1,aresei2,aresei3,aresei4,aresei5,aresei6,aresei7,aresei8,aresei9,
+            aresei10,aresei11,aresei12,aresei13,aresei14,aresei15,aresei16,aresei17,aresei18;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
