@@ -3,6 +3,7 @@ package come.examp.farsitoyounani;
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.content.Intent;
+import android.media.MediaPlayer;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
@@ -34,6 +35,151 @@ public class murizo extends AppCompatActivity {
                 startActivity(in);
             }
         });
+        murizo1=findViewById(R.id.murizo1);
+        final MediaPlayer mediaPlayer1 = MediaPlayer.create(this,R.raw.dipsao1);
+        murizo1.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                mediaPlayer1.start();
+            }
+        });
+        murizo2=findViewById(R.id.murizo2);
+        final MediaPlayer mediaPlayer2 = MediaPlayer.create(this,R.raw.dipsao1);
+        murizo2.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                mediaPlayer2.start();
+            }
+        });
+        murizo3=findViewById(R.id.murizo3);
+        final MediaPlayer mediaPlayer3 = MediaPlayer.create(this,R.raw.dipsao1);
+        murizo3.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                mediaPlayer3.start();
+            }
+        });
+        murizo4=findViewById(R.id.murizo4);
+        final MediaPlayer mediaPlayer4 = MediaPlayer.create(this,R.raw.dipsao1);
+        murizo4.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                mediaPlayer4.start();
+            }
+        });
+        murizo5=findViewById(R.id.murizo5);
+        final MediaPlayer mediaPlayer5 = MediaPlayer.create(this,R.raw.dipsao1);
+        murizo5.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                mediaPlayer5.start();
+            }
+        });
+        murizo6=findViewById(R.id.murizo6);
+        final MediaPlayer mediaPlayer6 = MediaPlayer.create(this,R.raw.dipsao1);
+        murizo6.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                mediaPlayer6.start();
+            }
+        });
+        murizo7=findViewById(R.id.murizo7);
+        final MediaPlayer mediaPlayer7 = MediaPlayer.create(this,R.raw.dipsao1);
+        murizo7.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                mediaPlayer7.start();
+            }
+        });
+        murizo8=findViewById(R.id.murizo8);
+        final MediaPlayer mediaPlayer8 = MediaPlayer.create(this,R.raw.dipsao1);
+        murizo8.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                mediaPlayer8.start();
+            }
+        });
+        murizo9=findViewById(R.id.murizo9);
+        final MediaPlayer mediaPlayer9 = MediaPlayer.create(this,R.raw.dipsao1);
+        murizo9.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                mediaPlayer9.start();
+            }
+        });
+        murizo10=findViewById(R.id.murizo10);
+        final MediaPlayer mediaPlayer10 = MediaPlayer.create(this,R.raw.dipsao1);
+        murizo10.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                mediaPlayer10.start();
+            }
+        });
+        murizo11=findViewById(R.id.murizo11);
+        final MediaPlayer mediaPlayer11 = MediaPlayer.create(this,R.raw.dipsao1);
+        murizo11.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                mediaPlayer11.start();
+            }
+        });
+        murizo12=findViewById(R.id.murizo12);
+        final MediaPlayer mediaPlayer12 = MediaPlayer.create(this,R.raw.dipsao1);
+        murizo12.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                mediaPlayer12.start();
+            }
+        });
+        murizo13=findViewById(R.id.murizo13);
+        final MediaPlayer mediaPlayer13 = MediaPlayer.create(this,R.raw.dipsao1);
+        murizo13.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                mediaPlayer13.start();
+            }
+        });
+        murizo14=findViewById(R.id.murizo14);
+        final MediaPlayer mediaPlayer14 = MediaPlayer.create(this,R.raw.dipsao1);
+        murizo14.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                mediaPlayer14.start();
+            }
+        });
+        murizo15=findViewById(R.id.murizo15);
+        final MediaPlayer mediaPlayer15 = MediaPlayer.create(this,R.raw.dipsao1);
+        murizo15.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                mediaPlayer15.start();
+            }
+        });
+        murizo16=findViewById(R.id.murizo16);
+        final MediaPlayer mediaPlayer16 = MediaPlayer.create(this,R.raw.dipsao1);
+        murizo16.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                mediaPlayer16.start();
+            }
+        });
+        murizo17=findViewById(R.id.murizo17);
+        final MediaPlayer mediaPlayer17 = MediaPlayer.create(this,R.raw.dipsao1);
+        murizo17.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                mediaPlayer17.start();
+            }
+        });
+        murizo18=findViewById(R.id.murizo18);
+        final MediaPlayer mediaPlayer18 = MediaPlayer.create(this,R.raw.dipsao1);
+        murizo18.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                mediaPlayer18.start();
+            }
+        });
+
 
     }
 }
