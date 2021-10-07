@@ -36,7 +36,7 @@ public class murizo extends AppCompatActivity {
             }
         });
         murizo1=findViewById(R.id.murizo1);
-        final MediaPlayer mediaPlayer1 = MediaPlayer.create(this,R.raw.dipsao1);
+        final MediaPlayer mediaPlayer1 = MediaPlayer.create(this,R.raw.murizo1);
         murizo1.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
@@ -44,7 +44,7 @@ public class murizo extends AppCompatActivity {
             }
         });
         murizo2=findViewById(R.id.murizo2);
-        final MediaPlayer mediaPlayer2 = MediaPlayer.create(this,R.raw.dipsao1);
+        final MediaPlayer mediaPlayer2 = MediaPlayer.create(this,R.raw.murizo2);
         murizo2.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
@@ -52,7 +52,7 @@ public class murizo extends AppCompatActivity {
             }
         });
         murizo3=findViewById(R.id.murizo3);
-        final MediaPlayer mediaPlayer3 = MediaPlayer.create(this,R.raw.dipsao1);
+        final MediaPlayer mediaPlayer3 = MediaPlayer.create(this,R.raw.murizo3);
         murizo3.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
@@ -60,7 +60,7 @@ public class murizo extends AppCompatActivity {
             }
         });
         murizo4=findViewById(R.id.murizo4);
-        final MediaPlayer mediaPlayer4 = MediaPlayer.create(this,R.raw.dipsao1);
+        final MediaPlayer mediaPlayer4 = MediaPlayer.create(this,R.raw.murizo4);
         murizo4.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
@@ -68,7 +68,7 @@ public class murizo extends AppCompatActivity {
             }
         });
         murizo5=findViewById(R.id.murizo5);
-        final MediaPlayer mediaPlayer5 = MediaPlayer.create(this,R.raw.dipsao1);
+        final MediaPlayer mediaPlayer5 = MediaPlayer.create(this,R.raw.murizo5);
         murizo5.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
@@ -76,7 +76,7 @@ public class murizo extends AppCompatActivity {
             }
         });
         murizo6=findViewById(R.id.murizo6);
-        final MediaPlayer mediaPlayer6 = MediaPlayer.create(this,R.raw.dipsao1);
+        final MediaPlayer mediaPlayer6 = MediaPlayer.create(this,R.raw.murizo6);
         murizo6.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
@@ -84,7 +84,7 @@ public class murizo extends AppCompatActivity {
             }
         });
         murizo7=findViewById(R.id.murizo7);
-        final MediaPlayer mediaPlayer7 = MediaPlayer.create(this,R.raw.dipsao1);
+        final MediaPlayer mediaPlayer7 = MediaPlayer.create(this,R.raw.murizo7);
         murizo7.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
@@ -92,7 +92,7 @@ public class murizo extends AppCompatActivity {
             }
         });
         murizo8=findViewById(R.id.murizo8);
-        final MediaPlayer mediaPlayer8 = MediaPlayer.create(this,R.raw.dipsao1);
+        final MediaPlayer mediaPlayer8 = MediaPlayer.create(this,R.raw.murizo8);
         murizo8.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
@@ -100,7 +100,7 @@ public class murizo extends AppCompatActivity {
             }
         });
         murizo9=findViewById(R.id.murizo9);
-        final MediaPlayer mediaPlayer9 = MediaPlayer.create(this,R.raw.dipsao1);
+        final MediaPlayer mediaPlayer9 = MediaPlayer.create(this,R.raw.murizo9);
         murizo9.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
@@ -108,7 +108,7 @@ public class murizo extends AppCompatActivity {
             }
         });
         murizo10=findViewById(R.id.murizo10);
-        final MediaPlayer mediaPlayer10 = MediaPlayer.create(this,R.raw.dipsao1);
+        final MediaPlayer mediaPlayer10 = MediaPlayer.create(this,R.raw.murizo10);
         murizo10.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
@@ -116,7 +116,7 @@ public class murizo extends AppCompatActivity {
             }
         });
         murizo11=findViewById(R.id.murizo11);
-        final MediaPlayer mediaPlayer11 = MediaPlayer.create(this,R.raw.dipsao1);
+        final MediaPlayer mediaPlayer11 = MediaPlayer.create(this,R.raw.murizo11);
         murizo11.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
@@ -124,7 +124,7 @@ public class murizo extends AppCompatActivity {
             }
         });
         murizo12=findViewById(R.id.murizo12);
-        final MediaPlayer mediaPlayer12 = MediaPlayer.create(this,R.raw.dipsao1);
+        final MediaPlayer mediaPlayer12 = MediaPlayer.create(this,R.raw.murizo12);
         murizo12.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
@@ -132,7 +132,7 @@ public class murizo extends AppCompatActivity {
             }
         });
         murizo13=findViewById(R.id.murizo13);
-        final MediaPlayer mediaPlayer13 = MediaPlayer.create(this,R.raw.dipsao1);
+        final MediaPlayer mediaPlayer13 = MediaPlayer.create(this,R.raw.murizo13);
         murizo13.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
@@ -140,7 +140,7 @@ public class murizo extends AppCompatActivity {
             }
         });
         murizo14=findViewById(R.id.murizo14);
-        final MediaPlayer mediaPlayer14 = MediaPlayer.create(this,R.raw.dipsao1);
+        final MediaPlayer mediaPlayer14 = MediaPlayer.create(this,R.raw.murizo14);
         murizo14.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
@@ -148,7 +148,7 @@ public class murizo extends AppCompatActivity {
             }
         });
         murizo15=findViewById(R.id.murizo15);
-        final MediaPlayer mediaPlayer15 = MediaPlayer.create(this,R.raw.dipsao1);
+        final MediaPlayer mediaPlayer15 = MediaPlayer.create(this,R.raw.murizo15);
         murizo15.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
@@ -156,7 +156,7 @@ public class murizo extends AppCompatActivity {
             }
         });
         murizo16=findViewById(R.id.murizo16);
-        final MediaPlayer mediaPlayer16 = MediaPlayer.create(this,R.raw.dipsao1);
+        final MediaPlayer mediaPlayer16 = MediaPlayer.create(this,R.raw.murizo16);
         murizo16.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
@@ -164,7 +164,7 @@ public class murizo extends AppCompatActivity {
             }
         });
         murizo17=findViewById(R.id.murizo17);
-        final MediaPlayer mediaPlayer17 = MediaPlayer.create(this,R.raw.dipsao1);
+        final MediaPlayer mediaPlayer17 = MediaPlayer.create(this,R.raw.murizo17);
         murizo17.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
@@ -172,7 +172,7 @@ public class murizo extends AppCompatActivity {
             }
         });
         murizo18=findViewById(R.id.murizo18);
-        final MediaPlayer mediaPlayer18 = MediaPlayer.create(this,R.raw.dipsao1);
+        final MediaPlayer mediaPlayer18 = MediaPlayer.create(this,R.raw.murizo18);
         murizo18.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {

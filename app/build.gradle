@@ -9,8 +9,8 @@ android {
         applicationId "come.examp.farsitoyounani"
         minSdkVersion 23
         targetSdkVersion 30
-        versionCode 4
-        versionName "4.0"
+        versionCode 4.1
+        versionName "4.1"
 
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
     }
